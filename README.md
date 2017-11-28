@@ -1,0 +1,2 @@
+# rainbow
+CLI weather
